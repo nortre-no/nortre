@@ -16,11 +16,11 @@ jobs:
         with:
           node-version: "20"
           cache: "yarn"
-      - run: yarn install
+      - run: yarn install --frozen-lockfile
       - run: yarn build
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: build
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: build
