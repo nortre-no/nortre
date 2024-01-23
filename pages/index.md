@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Info button
       link: #info
+  image:
+    src: /key-logo.png
+    alt: NORTRE
 
 features:
   - title: Member A
