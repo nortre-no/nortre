@@ -10,7 +10,8 @@ export default defineConfig({
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/key-logo.png',
+    logo: '/nortre-logo.png',
+    siteTitle: false,
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/examples/' },
