@@ -8,8 +8,8 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Call to action
-      link: #call-to-action
+      text: Perspectives
+      link: #perspectives
     - theme: alt
       text: Info button
       link: #info
@@ -18,10 +18,10 @@ hero:
     alt: NORTRE
 
 features:
-  - title: Member A
+  - title: HUNT Cloud
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Member B
+  - title: TSD
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Member C
+  - title: SAFE
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
