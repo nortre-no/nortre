@@ -1,7 +1,5 @@
 ---
-title: About
+title: Contact
 ---
 
 # {{ $frontmatter.title }}
-
-in progress...

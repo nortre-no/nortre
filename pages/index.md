@@ -4,15 +4,17 @@ layout: home
 
 hero:
   name: "NORTRE"
-  text: "Norwegian Trusted Research Environments (NORTRE)"
-  tagline: My great project tagline
+  text: |
+    Norwegian Trusted Research Environments
+  # (NORTRE)
+  tagline: NORTRE
   actions:
     - theme: brand
       text: Perspectives
-      link: #perspectives
+      link: /perspectives/
     - theme: alt
-      text: Info button
-      link: #info
+      text: Contact
+      link: /contact/
   image:
     src: /key-logo.png
     alt: NORTRE

@@ -1,7 +1,5 @@
 ---
-title: About
+title: Perspectives
 ---
 
 # {{ $frontmatter.title }}
-
-in progress...
