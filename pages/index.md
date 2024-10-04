@@ -23,7 +23,7 @@ features:
   - title: |
       HUNT Cloud
     details: |
-      HUNT Cloud @ Norwegian University of Science and Technology
+      Norwegian University of Science and Technology
       <br />
       <br />
       <img class="VPImage" src="/img/ntnu-hunt-cloud.svg" style="max-height: 48px" alt="">
@@ -32,7 +32,7 @@ features:
   - title: |
       TSD
     details: |
-      TSD @ Universitetet i Oslo
+      Universitetet i Oslo
       <br />
       <br />
       <img class="VPImage" src="/img/uio-tsd.png" style="max-height: 64px" alt="">
@@ -41,7 +41,7 @@ features:
   - title: |
       SAFE
     details: |
-      SAFE @ Universitetet i Bergen
+      Universitetet i Bergen
       <br />
       <br />
       <img class="VPImage" src="/img/uib-safe.svg" style="max-height: 48px" alt="">
