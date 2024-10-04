@@ -26,13 +26,14 @@ features:
       Norwegian University of Science and Technology
       <br />
       <br />
-      <img class="VPImage" src="/img/ntnu-hunt-cloud.svg" style="max-height: 48px" alt="">
+      <img class="VPImage" src="/img/ntnu-hunt-cloud.png" style="max-height: 64px" alt="">
     # icon:
     #   src: /img/ntnu-hunt-cloud.svg
   - title: |
       TSD
     details: |
       Universitetet i Oslo
+      <br />
       <br />
       <br />
       <img class="VPImage" src="/img/uio-tsd.png" style="max-height: 64px" alt="">
@@ -44,7 +45,8 @@ features:
       Universitetet i Bergen
       <br />
       <br />
-      <img class="VPImage" src="/img/uib-safe.svg" style="max-height: 48px" alt="">
+      <br />
+      <img class="VPImage" src="/img/uib-safe.png" style="max-height: 64px" alt="">
     # icon:
     #   src: /img/uib-safe.svg
 ---
