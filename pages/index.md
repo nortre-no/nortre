@@ -33,7 +33,7 @@ features:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit
       <br />
       <br />
-      <img class="VPImage" src="/img/uio-tsd.png" style="max-height: 48px" alt="">
+      <img class="VPImage" src="/img/uio-tsd.png" style="max-height: 64px" alt="">
     # icon:
     #   src: /img/uio-tsd.png
   - title: |
