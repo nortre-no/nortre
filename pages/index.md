@@ -7,7 +7,7 @@ hero:
   text: |
     Norwegian Trusted Research Environments (NORTRE)
   # (NORTRE)
-  tagline: <br /> NORTRE is a collaboration between the three main institutional research infrastructures for sensitive data in Norway. We share knowledge and expertise so scientists and data controllers from Norway and around the world can collect, analyze, store, share and collaborate on sensitive data in an optimized and trustworthy manner. 
+  tagline: <br /> NORTRE is a collaboration between three main institutional research infrastructures for sensitive data in Norway. We share knowledge and expertise so scientists and data controllers from Norway and around the world can collect, analyze, store, share and collaborate on sensitive data in an optimized and trustworthy manner. 
 #  actions:
 #    - theme: brand
 #      text: Read more
