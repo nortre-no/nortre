@@ -12,11 +12,12 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/nortre-logo.png',
     siteTitle: false,
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Perspectives', link: '/perspectives/' },
-      { text: 'About', link: '/about/' },
-    ],
+    nav: false,
+//    nav: [
+//      { text: 'Home', link: '/' },
+//      { text: 'Perspectives', link: '/perspectives/' },
+//      { text: 'About', link: '/about/' },
+//    ],
 
     sidebar: [
       // {
@@ -28,20 +29,20 @@ export default defineConfig({
       //   ]
       // },
       {
-        text: 'Perspectives',
-        link: '/perspectives/',
+        text: 'Read more',
+        link: '/about/',
       },
-      {
-        text: 'Contact',
-        link: '/contact/',
-      },
-      {
-        text: 'About',
-        link: '/about/',  // index.md
+//      {
+//        text: 'Contact',
+//        link: '/contact/',
+//      },
+//      {
+//        text: 'About',
+//        link: '/about/',  // index.md
         // items: [
         //   { text: 'Team', link: '/about/team' },
         // ]
-      },
+//      },
     ],
 
     socialLinks: [
