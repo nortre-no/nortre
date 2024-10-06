@@ -52,6 +52,6 @@ features:
 
 <br />
 
-<b>Contact:</b><br /> NORTRE is led by <a href="https://www.usit.uio.no/om/organisasjon/ansatte/gardot/">Gard Thomassen</a> at TSD/UiO in close collaboration with <a href="https://https://www4.uib.no/en/find-employees/Christine.Stansberg">Christine Stansberg</a> at SAFE/UiB and <a href="https://www.ntnu.edu/employees/oddgeir.lingaas.holmen">Oddgeir Lingaas Holmen</a> at HUNT Cloud/NTNU.
+<b>Contact:</b><br /> NORTRE is led by <a href="https://www.usit.uio.no/om/organisasjon/ansatte/gardot/">Gard Thomassen</a> at TSD/UiO in close collaboration with <a href="https://www4.uib.no/en/find-employees/Christine.Stansberg">Christine Stansberg</a> at SAFE/UiB and <a href="https://www.ntnu.edu/employees/oddgeir.lingaas.holmen">Oddgeir Lingaas Holmen</a> at HUNT Cloud/NTNU.
 
 
